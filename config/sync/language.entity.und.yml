@@ -1,0 +1,11 @@
+uuid: dbdbc35e-ff15-4ef7-ba63-880e6a32f551
+langcode: fr
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: eNX6lLCKDaY83nCMh20My---y03KbiFlv802DKCCpvg
+id: und
+label: 'Non spécifié'
+direction: ltr
+weight: 2
+locked: true
