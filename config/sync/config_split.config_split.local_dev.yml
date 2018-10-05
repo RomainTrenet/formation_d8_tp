@@ -10,8 +10,10 @@ module:
   devel: 0
   field_ui: 0
   kint: 0
+  performance_tests: 0
   search_kint: 0
   views_ui: 0
+  webprofiler: 0
 theme: {  }
 blacklist: {  }
 graylist: {  }
