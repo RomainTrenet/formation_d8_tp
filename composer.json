@@ -22,12 +22,9 @@
         "drupal/admin_toolbar": "^1.24",
         "drupal/admin_toolbar_tools": "^1.24",
         "drupal/components": "^1.0",
-        "drupal/console": "^1.0.2",
         "drupal/core": "^8.6.0",
         "drupal/fb_likebox": "^2.0",
-        "drupal/kint": "^1.2",
         "drupal/module_filter": "^3.1",
-        "drupal/search_kint": "^1.0",
         "drupal/zen": "^7.0@alpha",
         "drush/drush": "^9.4",
         "vlucas/phpdotenv": "^2.4",
@@ -35,6 +32,9 @@
         "webmozart/path-util": "^2.3"
     },
     "require-dev": {
+        "drupal/console": "^1.0.2",
+        "drupal/kint": "^1.2",
+        "drupal/search_kint": "^1.0",
         "webflo/drupal-core-require-dev": "^8.6.0"
     },
     "conflict": {
