@@ -1,0 +1,14 @@
+uuid: f65b7b02-214b-4874-b46c-bd075c73297f
+langcode: fr
+status: true
+dependencies:
+  enforced:
+    module:
+      - webform
+_core:
+  default_config_hash: pZJnuQkh9afNML5IcMuKTUC__vmHMFn66Qr5IWtedZ4
+id: months
+label: Mois
+category: 'Date and time'
+likert: false
+options: "January: January\nFebruary: February\nMarch: March\nApril: April\nMay: May\nJune: June\nJuly: July\nAugust: August\nSeptember: September\nOctober: October\nNovember: November\nDecember: December\n"

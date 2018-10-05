@@ -1,0 +1,14 @@
+uuid: 3c87f30f-608b-430d-9b13-b7d56e13b1e6
+langcode: fr
+status: true
+dependencies:
+  enforced:
+    module:
+      - webform
+_core:
+  default_config_hash: RKkc6tf1VudvYiOtwPCf3Tp_EoA6fov6BFC34D7gMoQ
+id: size
+label: Size
+category: General
+likert: false
+options: "Extra Small: Extra Small\nSmall: Small\nMedium: Medium\nLarge: Large\nExtra Large: Extra Large\n"

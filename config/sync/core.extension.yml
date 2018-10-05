@@ -18,15 +18,18 @@ module:
   ctools: 0
   datetime: 0
   dblog: 0
+  devel: 0
   dynamic_page_cache: 0
   editor: 0
   fb_likebox: 0
   field: 0
+  field_ui: 0
   file: 0
   filter: 0
   help: 0
   history: 0
   image: 0
+  kint: 0
   language: 0
   link: 0
   locale: 0
@@ -36,9 +39,11 @@ module:
   options: 0
   page_cache: 0
   path: 0
+  performance_tests: 0
   quickedit: 0
   rdf: 0
   search: 0
+  search_kint: 0
   shortcut: 0
   system: 0
   taxonomy: 0
@@ -48,6 +53,9 @@ module:
   tour: 0
   update: 0
   user: 0
+  views_ui: 0
+  webform: 0
+  webprofiler: 0
   menu_link_content: 1
   pathauto: 1
   views: 10
