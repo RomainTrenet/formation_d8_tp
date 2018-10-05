@@ -21,6 +21,7 @@
         "drupal-composer/drupal-scaffold": "^2.5",
         "drupal/admin_toolbar": "^1.24",
         "drupal/admin_toolbar_tools": "^1.24",
+        "drupal/adminimal_admin_toolbar": "^1.8",
         "drupal/components": "^1.0",
         "drupal/config_split": "^1.4",
         "drupal/core": "^8.6.0",
@@ -35,6 +36,7 @@
     },
     "require-dev": {
         "drupal/console": "^1.0.2",
+        "drupal/devel": "^1.2",
         "drupal/kint": "^1.2",
         "drupal/search_kint": "^1.0",
         "webflo/drupal-core-require-dev": "^8.6.0"
